@@ -28,18 +28,6 @@ pip install -e .
 ```
 
 ---
-
-## ⚡ Quick Start
-
-Initialize `envsync` in your project:
-```bash
-envsync init
-```
-
-This will create a `.envsync/` folder to manage your environments.
-
----
-
 ## 🛠 Commands
 
 ### 🔄 Switch environments
